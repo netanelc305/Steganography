@@ -7,7 +7,8 @@ Python2.7 script for hide and extract messages in PNG images.
 Download the files\clone the repository  and execute - pip install -r requirements.txt.
 
 
-```usage: Steganography project [-h] [--extract | --hide | --interactive] [-o]
+```
+usage: Steganography project [-h] [--extract | --hide | --interactive] [-o]
                              [-i] [-p] [-d]
 
 This program use to hide and extract data from PNG images.
